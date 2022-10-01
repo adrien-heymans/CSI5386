@@ -1,0 +1,4 @@
+*.txt
+!Exercise_1/*.txt
+*.pdf
+*.xlsx
