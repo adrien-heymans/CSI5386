@@ -3,9 +3,9 @@
 1,# of types (b),52257
 2,type/token ratio (b),0.011196778502322405
 3,tokens appeared only once (d),22632
-4,# of words (excluding punctuation) (e),32149
-5,type/token ratio (excluding punctuation) (e),0.007830991473331782
+4,# of words (excluding punctuation) (e),28132
+5,type/token ratio (excluding punctuation) (e),0.007175284089677278
 6,List the top 3 most frequent words and their frequencies (e),"[('the', 257278), ('of', 156455), ('and', 132873)]"
-7,type/token ratio (excluding punctuation and stopwords) (f),0.013314772314190862
+7,type/token ratio (excluding punctuation and stopwords) (f),0.012612810679891586
 8,List the top 3 most frequent words and their frequencies (excluding stopwords) (f),"[('shall', 48794), ('agreement', 43651), ('party', 33277)]"
-9,List the top 3 most frequent bigrams and their frequencies (g),"[(('set', 'forth'), 6151), (('third', 'party'), 4600), (('agreement', 'shall'), 3664)]"
+9,List the top 3 most frequent bigrams and their frequencies (g),"[(('set', 'forth'), 6151), (('third', 'party'), 4600), (('agreement', 'shall'), 3672)]"
