@@ -15,6 +15,9 @@ To fine-tune the models, simply open the jupyter notebook in the `fine-tuning` f
 
 To test the evaluation, simply eexecute the `evaluation.py` file, it will automatically calculate the the AUPR, Precision and Recall for the 3 models. 
 
+### Results 
+The results for each models can be found in the `nbest_predictions.json` file in each model's folder. These files are the ones use by the evaluation script to calculate the precision/recall and AUPR.
+
 ## Exercise 2
 This folder contains the training and test data for the second exercise of this assignment.
 - Note that the result files are created by the preprocessing steps.
